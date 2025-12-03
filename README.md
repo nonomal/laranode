@@ -26,10 +26,13 @@ Laranode is a simple but powerful open-source alternative to cPanel and Plesk, d
 
 ## Installation
 
-Laranode can be installed on a FRESH VPS or dedicated server. A one-line installer will be available soon.
+Laranode can be installed on a FRESH VPS or dedicated server.
 
-### Requirements
+### Min. Requirements
 - Ubuntu 24.04+
+- 1vCPU
+- 2GB RAM
+- 10GB Disk Space
 
 ### Quick Install
 ```bash
@@ -59,9 +62,7 @@ Login with the credentials provided during installation.
 | <img src="laranode-screenshots/9-firewall.png" alt="Firewall (Light)" width="400"/> | <img src="laranode-screenshots/9-firewall-dark.png" alt="Firewall (Dark)" width="400"/> |
 
 ## Minimum Requirements
-1vCPU
-2GB RAM
-10GB Disk Space
+
 
 ## 1-Click Deployment with DigitalOcean
 [![DigitalOcean Logo](https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg)](https://marketplace.digitalocean.com/apps/laranode-panel?refcode=833110c66c2c&action=deploy)
